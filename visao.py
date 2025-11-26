@@ -12,7 +12,7 @@ MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
 MQTT_TOPIC_ALERT = "projeto/uniforme/alert"
 
-CALLMEBOT_PHONE = "5548996476451"   # número com DDD (ex: 5511999999999)
+CALLMEBOT_PHONE = "554896476451"   # número com DDD (ex: 5511999999999)
 CALLMEBOT_APIKEY = "7067430"        # sua chave do CallMeBot (se aplicável)
 
 UNIFORM_THRESHOLD_PERCENT = 20.0    # % do torso que deve ser da cor do uniforme
